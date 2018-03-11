@@ -1,4 +1,8 @@
-The script for the compilation of the source code of multiple versions of php in separate directories. For Debian/Ubuntu.
-Usage:
-# bash mgrvphp
-And to answer the installer queries
+Данный скрипт позволяет установить множество версий php  и легко переключаться между ними на Debian  сервере или VPS с панелью управления VESTACP.
+
+Краткая инструкция по использованию:
+git clone https://github.com/kxknet/mgrvphp.git
+cd mgrvphp
+bash mgrvphp
+
+Переведено и дополнено при технической поддержке лучшего сервиса защиты от ddos  атак ddosov.net
