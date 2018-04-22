@@ -25,6 +25,9 @@
 --enable-sockets \
 --enable-wddx \
 --with-libxml-dir=/usr \
+--enable-pdo=shared \
+--with-sqlite=shared \
+--with-pdo-sqlite=shared \
 --with-zlib \
 --with-kerberos=/usr \
 --with-openssl=/usr \
