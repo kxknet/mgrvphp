@@ -1,8 +1,10 @@
 Данный скрипт позволяет установить множество версий php  и легко переключаться между ними на Debian  сервере или VPS с панелью управления VESTACP.
 
 Краткая инструкция по использованию:
-git clone https://github.com/kxknet/mgrvphp.git
-cd mgrvphp
-bash mgrvphp
+
+git clone https://github.com/kxknet/mgrvphp.git;cd mgrvphp;bash mgrvphp
+Далее идём на http://php.net/releases/
+Выбираем нужные версии php например 7.1.14 и 7.2.2 и указываем их через пробел те 7.1.14 7.2.2
+Далее выполняем что скажет мастер
 
 Переведено и дополнено при технической поддержке лучшего сервиса защиты от ddos  атак ddosov.net
