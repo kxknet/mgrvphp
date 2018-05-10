@@ -7,4 +7,7 @@ git clone https://github.com/kxknet/mgrvphp.git;cd mgrvphp;bash mgrvphp
 Выбираем нужные версии php например 7.1.14 и 7.2.2 и указываем их через пробел те 7.1.14 7.2.2
 Далее выполняем что скажет мастер
 
+Если вылезет ошибка  xml2-config not found
+То пишем apt-get install libxml2-dev
+
 Переведено и дополнено при технической поддержке лучшего сервиса защиты от ddos  атак ddosov.net
